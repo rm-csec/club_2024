@@ -1,0 +1,4 @@
+Hmm, it seems we have a couple images in our hands. Could you find those locations and give us the GPS coordiations?
+church.png easy
+bridge.png medium
+lake.png hard (you are not expected to get this one unless you played geo guesser and brute-force search)
