@@ -1,4 +1,4 @@
-Hmm, it seems we have a couple images in our hands. Could you find those locations and give us the GPS coordiations?
+Hmm, it seems we have a couple images in our hands. Could you find those locations and give us the GPS coordiations of where the picture was exactly taken? Round to three decimals. Ex. rmctf{51.513,-0.219}.
 church.png easy
 bridge.png medium
 lake.png hard
