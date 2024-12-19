@@ -1,0 +1,7 @@
+Newton's Second Law explains how forces change an object's motion.
+It shows that unbalanced forces cause acceleration, with the amount depending on the object's mass.
+This law is key to understanding how things move in the physical world.
+
+The law states that acceleration equals net force divided by mass.
+This means heavier objects are harder to accelerate, while stronger forces cause more acceleration.
+It's crucial for predicting motion in physics problems.

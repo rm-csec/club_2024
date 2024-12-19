@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image View</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-900 flex flex-col items-center justify-center min-h-screen">
+        <a href="{{ url_for('show_gallery') }}"><h1 class="text-3xl text-yellow-300 font-bold mb-8 py-2">Image Gallery</h1></a>
+        <div class="bg-white p-1 rounded-lg shadow-lg">
+            <img src="{{url}}" alt="Large Image" class="w-full h-auto rounded">
+        </div>
+</body>
+</html>

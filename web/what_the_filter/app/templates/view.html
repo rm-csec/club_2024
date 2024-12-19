@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>FlaskTest</title>
+<style>
+body {
+  background-color: #212121;
+  color: white;
+  text-align: center;
+}
+p {
+  margin: auto;
+}
+h2 {
+  color: #fdf800;
+}
+</style>
+</head>
+
+<body>
+  <h2>Filename: {{ filename }}</h2>
+<!-- this section can be replaced by a child document -->
+ {% autoescape false %}
+<p>{{ blog }}</p>
+ {% endautoescape %}
+</body>
+
+</html>

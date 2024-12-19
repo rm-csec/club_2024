@@ -1,0 +1,4 @@
+Dev Logs
+Just removed the ability to type in "../"
+Removing "../" from the incoming name is enough to prevent lfi
+right?

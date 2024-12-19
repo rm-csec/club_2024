@@ -1,0 +1,6 @@
+You divide the horizontal length under the part of the function you want to evaluate into "n" equal pieces.
+That is the n on top of the Σ (Greek letter sigma).
+The (xi-xi-1) represents the size of one horizontal segment that is created from dividing the whole by the "n". 
+The f(yi) is a y value in an "n" segment. 
+Since the area of a rectangle is length × width, the multiplication of xi and f(yi) is the area of a rectangle for that part of the graph. 
+The Σ means we add up all of these small rectangles to get an approximation of the area under the segment of a function. 
