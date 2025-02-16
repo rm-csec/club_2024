@@ -11,4 +11,4 @@ RUN adduser -D -h /home/chall -s /bin/bash chall && \
 USER chall
 EXPOSE 5000
 ENV FLASK_APP=/app/app.py
-CMD ["flask", "run", "--host=0.0.0.0"]
+CMD ["flask", "run", "--host=0.0.0.0", "--port=9999"]
